@@ -140,6 +140,6 @@ jobs:
       uses: benc-uk/workflow-dispatch@v1
       with:
         workflow: Deploy
-        repo: pbakpjatk/test-deployment
+        repo: pbak-pjatk/test-deployment
         token: ${{ secrets.CI_TOKEN }}
         inputs: '{ "app": "test-app", "version": "${{ needs.calculate-version.outputs.version }}" }'
