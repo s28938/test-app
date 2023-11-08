@@ -3,4 +3,4 @@ Test application for educational purposes
 
 test
 
-test 08.11.2023 2 3 4
+test 08.11.2023 2 3 4 chujowe polecenie
